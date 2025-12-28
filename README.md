@@ -128,4 +128,11 @@ MIT License - feel free to use this for learning purposes!
 
 ---
 
-Made with ☕ and lots of debugging sessions | 2025
+## 👨‍💻 Author
+
+**Sukhman Singh**
+B.Tech Computer Science (2nd Year)
+*Passionate about Systems Engineering and Algorithms.*
+
+---
+Made with ☕ and C++ | 2025
